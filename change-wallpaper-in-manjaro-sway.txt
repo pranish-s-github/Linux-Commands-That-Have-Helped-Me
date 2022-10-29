@@ -1,0 +1,6 @@
+cd .config/sway/definitions.d/
+vim background.conf
+
+// inside background.conf
+
+  set $background /home/pranish/Pictures/Wallpapers/wallpaper.jpg
